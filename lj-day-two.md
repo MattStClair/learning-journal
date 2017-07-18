@@ -4,4 +4,4 @@ In terms of technical stuff, I still have a lot to learn about the terminal but 
 
 Another thing I learned from today is I got more comfortable with github and navigating the web gui.
 
-Lastly, even while typing this I am uncertain about how I am going to add, commit, and push this assignment haha. So I guess the terminal is the beast so far but I have learned some stuff which I dont want to forget.
+Lastly, even while typing this I am uncertain about how I am going to add, commit, and push this assignment haha. So I guess the terminal is the beast, which I should have been practicing while doing the project as the directions said, so far but I have learned some stuff which I dont want to forget. 
